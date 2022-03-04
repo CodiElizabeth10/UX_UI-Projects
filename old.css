@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Sonsie+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap');
+
+
+
+
+body {
+  background-color: rgb(65, 41, 20);
+  color: #ffec82;
+  font-family: 'Sansita Swashed', cursive;
+  font-weight: 400;
+  line-height: 1.58;
+  letter-spacing: -.003em;
+  font-size: 20px;
+  padding: 70px;
+}
+
+h1 {
+  font-family: 'Sonsie One', cursive;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 38px;
+  line-height: 1.15;
+  letter-spacing: -.02em;
+  color: lightskyblue;
+  -webkit-font-smoothing: antialiased;
+}
+

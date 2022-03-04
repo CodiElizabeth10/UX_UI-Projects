@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Mouse+Memoirs&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+body {
+  font-family: 'Indie Flower', cursive;
+  color: #673a2e(0, 0, 0, 0.8);
+  font-weight: 400;
+  line-height: 1.58;
+  letter-spacing: -.003em;
+  font-size: 20px;
+  padding: 70px;
+}
+
+h1 {
+  font-family: 'Mouse Memoirs', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 38px;
+  line-height: 1.15;
+  letter-spacing: -.02em;
+  color: #0ca07e;
+  -webkit-font-smoothing: antialiased;
+}
+
+
