@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <a onclick="myAudioFunction('A');">
+        <img src="lion.jpeg">
+    </a>
+    <script>
+        var aAudio = new Audio('lion.mp3');
+       
+        function myAudioFunction(letter) {
+            if(letter == 'A') {
+                aAudio.play();
+            }
+        }
+    </script>
+
+</body>
+</html>

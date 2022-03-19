@@ -1,0 +1,52 @@
+body {
+    background-color: #222d44;
+    color: #f4ddd5;
+    text-align: center;
+  }
+  
+  h1 {
+        text-transform: uppercase; 
+        font-family: "georgia", Verdana; 
+        background-color: #3D3D3D;
+        color: #c47f7f;
+        text-align: center;
+  }
+
+  p {
+    font-family: lato;
+    text-align: justify; /* Justify text within paragraph elements */
+    letter-spacing: 1px; /* This expands the text slightly */
+    font-size: 20px;
+    padding-left: 20px; /* Adds padding to the left of the paragraph element */
+    padding-right: 20px; /* Adds padding to the right of the paragraph element */
+}
+
+  
+  footer {
+    background-color: #3D3D3D;
+    color: #f4ddd5;
+    text-align: center;
+  }
+
+.button {
+    background: #f4ddd5;
+    background-image: -webkit-linear-gradient(top, #f4ddd5, #c48f7f);
+    background-image: -moz-linear-gradient(top, #f4ddd5, #c48f7f);
+    background-image: -ms-linear-gradient(top, #f4ddd5, #c48f7f);
+    background-image: -o-linear-gradient(top, #f4ddd5, #c48f7f);
+    background-image: linear-gradient(to bottom, #f4ddd5, #c48f7f);
+    -webkit-border-radius: 18;
+    -moz-border-radius: 18;
+    border-radius: 18px;
+    font-family: Georgia;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #c48f7f 2px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #eae9ef;
+    text-decoration: none;
+  }
